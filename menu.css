@@ -1,0 +1,24 @@
+#blocco_rosso {
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+
+#blocco_blu {
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+#blocco_verde {
+    width: 100px;
+    height: 50px;
+    background-color: green;
+    color: white;
+    text-align: center;
+}
